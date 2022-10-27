@@ -11,3 +11,6 @@ GitscmPolling happening
 Upstream and DownStream
 
 Build Pipeline
+
+
+Build Trigger
